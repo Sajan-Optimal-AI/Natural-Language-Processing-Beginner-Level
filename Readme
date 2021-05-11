@@ -1,0 +1,13 @@
+#1.About the data: 
+             Data includes summary of news headlines that might have been taken from various resources along with label column which describes about 
+             the prediction of stock fall or rise depends upon the news.
+        
+#2.Step by Step generation of codes:
+              1.Data Screening and text cleaning
+              2.Assign the model
+              3.Evaluate the model
+       
+ #References for the project was taken from krishnaik(youtuber).And honestly I tuned the codes and integrated my perception.
+ 
+ #About the score:
+             The evaluated score wasnot impressive but the idea mignt lead into different considerations to fine tune the model for better performance.
